@@ -1,3 +1,19 @@
+# Contributing
+
+Contributions are welcome! If you'd like to enhance this CLI tool, feel free to fork the repository and submit a pull request. Here are a few ideas for contributions:
+- Adding more shapes (e.g., Triangle, Rhombus) with their respective calculations.
+- Improving user interface and error handling.
+- Enhancing documentation or adding more examples.
+
+```js
+git clone https://github.com/marjan-ahmed/Shapes-area-finder.git
+cd Shapes-area-finder
+```
+
+Please ensure any contributions align with the project's coding standards and include tests where appropriate. Thank you for considering contributing to this project!
+
+---
+
 ### Classes:
 
 - Define TypeScript classes (`Shape`, `Square`, `Circle`, `Rectangle`) representing geometric shapes.
@@ -19,21 +35,3 @@
 ### Display:
 
 - Output the calculated area of the selected shape using `console.log` and the `displayArea` method defined in each shape class.
-
----
-
-#### Contributing
-
-Contributions are welcome! If you'd like to enhance this CLI tool, feel free to fork the repository and submit a pull request. Here are a few ideas for contributions:
-- Adding more shapes (e.g., Triangle, Rhombus) with their respective calculations.
-- Improving user interface and error handling.
-- Enhancing documentation or adding more examples.
-
-```js
-git clone https://github.com/marjan-ahmed/Shapes-area-finder.git
-cd Shapes-area-finder
-```
-
-Please ensure any contributions align with the project's coding standards and include tests where appropriate. Thank you for considering contributing to this project!
-
-
